@@ -22,4 +22,4 @@ Which parts of the challenge did you enjoy and which parts did you find tedious?
 
 I enjoyed looking for ideas and implementing it and the tedious part is when I constantly push to github and check it even when i'm not completely finished...but that's my own issue and nothing about the work.
 
-![Alt text](https://github.com/Soldez/phase-0/blob/wireframing/week-2/images/wireframing.png)
+![Alt text](https://github.com/Soldez/phase-0/blob/wire/week-2/wireframing.png)
