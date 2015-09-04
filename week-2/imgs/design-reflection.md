@@ -1,3 +1,3 @@
 #hi
 
-![Alt text](../imgs/site-map.png)
+![Alt text](site-map.png)
