@@ -31,8 +31,8 @@ UX is valuable because it can entice people to keep coming back to your page or 
 
 Which parts of the challenge did you find tedious?
 
-I didn't find anything too tedious because it's all still new to me. Until I actually get the work and don't need an outside reference or cheat sheet it's still pretty new..
+I didn't find anything too tedious because it's all still new to me. Until I actually get the work and don't need an outside reference or cheat sheet it's still pretty new.
 
 
 
-![Alt text](https://github.com/Soldez/phase-0/blob/master/week-2/wireframing.png)
+![Alt text](https://github.com/Soldez/phase-0/blob/wire/week-2/imgs/site_map_png.png)
