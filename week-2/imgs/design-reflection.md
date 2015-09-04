@@ -31,7 +31,7 @@ UX is valuable because it can entice people to keep coming back to your page or 
 
 Which parts of the challenge did you find tedious?
 
-I didn't find anything too tedious because it's all still new to me. Until I actually get the work and don't need an outside reference or cheat sheet it's still pretty new..
+I didn't find anything too tedious because it's all still new to me. Until I actually get the work and don't need an outside reference or cheat sheet it's still pretty new.
 
 
 
